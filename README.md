@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KO1025
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in front-end development (HTML, CSS, Javascript, jQuery, ES6+, Bootstrap, React, Node, Express, Mongo...)
 - 🌱 I’m currently learning go language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me koko19931025@outlook.com
